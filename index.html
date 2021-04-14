@@ -82,12 +82,12 @@
               format: new ol.format.GeoJSON(),
               url: 'https://raw.githubusercontent.com/jmacura/agrihub.sk-website-map/main/data/Agrihub.sk_Members.geojson'//'./data/Plan4All_Members.geojson'
             }),
-            cluster: false
+            cluster: true
           })
         ],
         default_view: new ol.View({
-          center: ol.proj.fromLonLat([18.5, 49]),
-          zoom: 7,
+          center: ol.proj.fromLonLat([19.5, 48.7]),
+          zoom: 7.9,
           units: 'm'
         }),
         queryPoint: 'hidden'
