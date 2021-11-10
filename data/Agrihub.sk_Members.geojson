@@ -50,6 +50,15 @@
         "website": ""
       },
       "geometry": { "type": "Point", "coordinates": [21.24216, 48.73129] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ADDSEN, s.r.o.",
+        "logo": "2021/10/unnamed-10.png",
+        "website": "https://addsen.eu/"
+      },
+      "geometry": { "type": "Point", "coordinates": [17.01526, 48.44313] }
     }
   ]
 }
